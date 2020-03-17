@@ -1,0 +1,53 @@
+{
+    "default": true,
+    "first-heading-h1": true,
+    "first-line-heading": false,
+    "line-length": {
+        "line_length": 100,
+        "heading_line_length": 60,
+        "code_blocks": false,
+        "tables": false
+    },
+    "no-inline-html": false,
+    "ul-indent": {
+        "indent": 4
+    },
+    "proper-names": {
+        "names": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Python",
+            "Java",
+            "XHTML",
+            "MIME",
+            "HTTP",
+            "W3C",
+            "WHATWG",
+            "IETF",
+            "IANA",
+            "ICANN",
+            "DOM",
+            "XML",
+            "SVG",
+            "SEO",
+            "ASCII",
+            "API",
+            "WebKit",
+            "Google",
+            "Adobe",
+            "DNS",
+            "WebSocket",
+            "WAI",
+            "ARIA",
+            "JSON",
+            "ATAG",
+            "C++",
+            "PNG",
+            "GIF",
+            "JPEG",
+            "jQuery"
+        ],
+        "code_blocks": false
+    }
+}

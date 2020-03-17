@@ -1,0 +1,31 @@
+{
+  "name": "dookbook-doc-wikipedia",
+  "version": "0.0.1",
+  "description": "Dookbook Document Library (Wikipedia for Computer Science).",
+  "main": "index.js",
+  "dependencies": {
+    "markdownlint-cli": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "markdownlint --silent --ignore node_modules/ ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dookbook/dookbook-doc-wikipedia.git"
+  },
+  "keywords": [
+    "dookbook",
+    "developer-documentation",
+    "markdown",
+    "developer-productivity",
+    "wikipedia",
+    "computer-science"
+  ],
+  "author": "Li Yun <leven.cn@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dookbook/dookbook-doc-wikipedia/issues"
+  },
+  "homepage": "https://dookbook.info/"
+}
