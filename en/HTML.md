@@ -1,4 +1,4 @@
-TOPICS: Wikipedia HyperText Markup Language
+TOPICS: HyperText Markup Language
 AUTHORS: Wikipedia; info-en@wikimedia.org; github:Wikipedia
 
 # HTML
