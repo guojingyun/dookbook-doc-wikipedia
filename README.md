@@ -1,4 +1,4 @@
-# dookbook-doc-wikipedia
+# dookbook-doc-Wikipedia
 
 Dookbook&reg; (Developers' Cookbook) Library (**Wikipedia for Computer Science**)
 
