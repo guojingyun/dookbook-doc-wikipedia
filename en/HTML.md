@@ -1,4 +1,4 @@
-TOPICS: Wikipedia HTML
+TOPICS: Wikipedia HyperText Markup Language
 AUTHORS: Wikipedia; info-en@wikimedia.org; github:Wikipedia
 
 **Hypertext Markup Language** (**HTML**) is the standard [markup language](#) for documents

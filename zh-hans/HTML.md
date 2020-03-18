@@ -1,4 +1,4 @@
-TOPICS: Wikipedia HTML
+TOPICS: Wikipedia HyperText Markup Language
 AUTHORS: Wikipedia; info-en@wikimedia.org; github:Wikipedia
 
 **超文本标记语言**（英语：**H**yper**T**ext **M**arkup **L**anguage，简称：**HTML**）是一种用于创建[网页](#)的标准[标记语言](#)。
