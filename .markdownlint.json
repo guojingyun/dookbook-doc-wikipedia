@@ -12,6 +12,7 @@
     "ul-indent": {
         "indent": 4
     },
+    "no-empty-links": false,
     "proper-names": {
         "names": [
             "HTML",
@@ -46,7 +47,8 @@
             "PNG",
             "GIF",
             "JPEG",
-            "jQuery"
+            "jQuery",
+            "Wikipedia"
         ],
         "code_blocks": false
     }
